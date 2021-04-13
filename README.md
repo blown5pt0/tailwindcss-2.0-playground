@@ -11,7 +11,7 @@ To get started:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/blown5pt0/tailwindcss-2.0-playground.git tailwindcss-2.0-playground
+   git clone https://github.com/scottburlovich/tailwindcss-2.0-playground.git your-project-name
 
    cd tailwindcss-2.0-playground
    ```
